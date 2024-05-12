@@ -86,9 +86,6 @@ int main() {
     cout << "1 master commit" << endl;
     cout << "2 master commit" << endl;
     cout << "3 master commit" << endl;
-    cout << "After merge" << endl;
-    cout << "1" << endl;
-    cout << "2" << endl;
-    cout << "3" << endl;
+    
     return 0;
 }
